@@ -1,0 +1,4 @@
+num = 4
+items = ["Hi", "Hello", "Bye", "Good Bye"]
+
+print(items[num / 2])
